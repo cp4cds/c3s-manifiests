@@ -17,4 +17,3 @@ variables:
   Geopotential height	(zg):
     units: 'm'
     description: 'Gravitational potential energy per unit mass normalised by the standard gravity at mean sea level at the same latitude. It is also used as vertical coordinate referenced to Earth's mean sea level since its value is proportional to the elevation above the mean sea level.'
-    
