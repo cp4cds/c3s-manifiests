@@ -8,3 +8,7 @@ variables:
   U-component of wind (ua):
     units: 'm s-1'
     description: 'Magnitude of the eastward component of the two-dimensional horizontal air velocity.'
+  Meridional component of Wind (va):
+    units: 'm.s^-1'
+    description: 'Magnitude of the meridional (northward) component of the two-dimensional horizontal air velocity.'
+
