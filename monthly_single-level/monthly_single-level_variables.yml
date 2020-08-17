@@ -45,7 +45,7 @@ variables:
     units: 'Pa'
     description: 'Eastward component of the horizontal drag exerted by the atmosphere on the surface through turbulent processes.'
   Surface northward wind stress (tauv):
-    units: 'pa'
+    units: 'Pa'
     description: 'Northward component of the horizontal drag exerted by the atmosphere on the surface through turbulent processes.'
   Surface latent heat flux (hfls):
     units: 'W.m^-2'
